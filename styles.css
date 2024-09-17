@@ -1,19 +1,26 @@
 h1{
+    text-align: center;
     color:white;
 }
 h2{
     color:white;
+    text-align: center;
 }
 h3{
     color:white;
+    text-align: center;
 }
 a{
-    color:pink;
+    color:white;
+    text-align: center;
 }
 body{
-    background-color:darkslateblue;
+    font-size: x-large;
+    text-align: center;
+    background-color: black;
+    background-image: image-set("images/otherJunk/background.jpg");
 }
 h4{
-    color:pink;
+    color:white;
 }
 a:hover {color:white};
