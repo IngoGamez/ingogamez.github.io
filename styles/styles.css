@@ -1,0 +1,30 @@
+body
+{
+    background-color: #300b6b;
+}
+
+.textShit
+{
+    display: flex;
+    color: white;
+    
+    transform: translate(64px, -64px);
+    a {
+        color: whitesmoke;
+        text-decoration: none;
+    }
+    a:hover {
+        color:rgb(0, 208, 255);
+    }
+}
+.textShit > * 
+{
+    padding: 20px;
+}
+
+#rectangle
+{
+    width: 200;
+    height: 100;
+    background: black;
+}
