@@ -11,6 +11,7 @@ footer
 {
     position: fixed;
     transform: translate(0px, 140px);
+    color: white;
 }
 .textShit
 {
@@ -48,8 +49,9 @@ footer
     transform: translateY(100px);
     z-index: -2;
 }
-.footer
+.FAQ
 {
     color: white;
-    font-size: large;
+    transform: translateY(150px);
+    z-index: -1;
 }
