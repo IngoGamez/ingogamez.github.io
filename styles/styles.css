@@ -55,3 +55,17 @@ footer
     transform: translateY(150px);
     z-index: -1;
 }
+.GamesText
+{
+    color: white;
+    transform: translateY(200px);
+    a  
+    {
+        color: white;
+        text-decoration: none;
+    }
+    a:hover
+    {
+        color:rgb(0, 208, 255);
+    }
+}
