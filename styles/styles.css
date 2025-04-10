@@ -70,3 +70,26 @@ footer
         color:rgb(0, 208, 255);
     }
 }
+.teamShit
+{
+    color: white;
+    font-size: larger;
+    transform: translateY(100px);
+    z-index: -2;
+}
+.programmerText
+{
+    transform: translate(200px, -180px);
+}
+.artistText
+{
+    transform: translate(200px, -180px);
+}
+.musicText
+{
+    transform: translate(200px, -180px);
+}
+.voiceText
+{
+    transform: translate(200px, -180px);
+}
