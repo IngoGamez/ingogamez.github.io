@@ -48,7 +48,6 @@ footer
 .GamesText
 {
     color: white;
-    transform: translateY(200px);
     a  
     {
         color: white;
@@ -63,7 +62,6 @@ footer
 {
     color: white;
     font-size: larger;
-    transform: translateY(100px);
     z-index: -2;
 }
 .programmerText
