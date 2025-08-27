@@ -1,6 +1,6 @@
 body
 {
-    background-color: #300b6b;
+    background-color: #110E14;
     font-family: 'Trebuchet MS', 'sans-serif';
 }
 
@@ -88,4 +88,8 @@ footer
 .p1Cover
 {
     transform: translate(1200px, -400px);
+}
+.Moonlite
+{
+    color: #9800FF;
 }
